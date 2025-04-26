@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\migrations\\20250426060936_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\migrations\\20250426060936_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\dtos\\savegamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\dtos\\savegamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\dtos\\auditlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\dtos\\auditlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\dtos\\gameresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\dtos\\gameresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\dtos\\gamestatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\dtos\\gamestatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\data\\playerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\data\\playerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\models\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\models\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\dtos\\playervalidationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\dtos\\playervalidationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|c:\\users\\dale pantano\\downloads\\group 1 slot machine\\slotmachineapi (2)\\slotmachineapi\\slotmachineapi\\slotmachineapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B0AF9C3-E147-4D11-86F5-D315C8CE1435}|SlotMachineApi\\SlotMachineApi.csproj|solutionrelative:slotmachineapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250426060936_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Migrations\\20250426060936_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Migrations\\20250426060936_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Migrations\\20250426060936_InitialCreate.cs",
+              "RelativeToolTip": "SlotMachineApi\\Migrations\\20250426060936_InitialCreate.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T06:09:37.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "SlotMachineApi\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAowKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:28:15.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditLogDto.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Dtos\\AuditLogDto.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Dtos\\AuditLogDto.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Dtos\\AuditLogDto.cs",
+              "RelativeToolTip": "SlotMachineApi\\Dtos\\AuditLogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:00:24.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Dtos\\GameResultDto.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Dtos\\GameResultDto.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Dtos\\GameResultDto.cs",
+              "RelativeToolTip": "SlotMachineApi\\Dtos\\GameResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:59:47.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameStatsDto.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Dtos\\GameStatsDto.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Dtos\\GameStatsDto.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Dtos\\GameStatsDto.cs",
+              "RelativeToolTip": "SlotMachineApi\\Dtos\\GameStatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:01:57.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveGameDto.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Dtos\\SaveGameDto.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Dtos\\SaveGameDto.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Dtos\\SaveGameDto.cs",
+              "RelativeToolTip": "SlotMachineApi\\Dtos\\SaveGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:01:38.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SlotMachineApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:49:35.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "SlotMachineApi\\Controllers\\PlayersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:12:56.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerDto.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Data\\PlayerDto.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Data\\PlayerDto.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Data\\PlayerDto.cs",
+              "RelativeToolTip": "SlotMachineApi\\Data\\PlayerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:58:27.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Program.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Program.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Program.cs",
+              "RelativeToolTip": "SlotMachineApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:29:37.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Models\\Player.cs",
+              "RelativeToolTip": "SlotMachineApi\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:39:00.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Models\\GameResult.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Models\\GameResult.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Models\\GameResult.cs",
+              "RelativeToolTip": "SlotMachineApi\\Models\\GameResult.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:39:37.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Models\\AuditLog.cs",
+              "RelativeToolTip": "SlotMachineApi\\Models\\AuditLog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:40:06.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerValidationDto.cs",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Dtos\\PlayerValidationDto.cs",
+              "RelativeDocumentMoniker": "SlotMachineApi\\Dtos\\PlayerValidationDto.cs",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\Dtos\\PlayerValidationDto.cs",
+              "RelativeToolTip": "SlotMachineApi\\Dtos\\PlayerValidationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:01:09.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SlotMachineApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\dale pantano\\Downloads\\group 1 slot machine\\SlotMachineApi (2)\\SlotMachineApi\\SlotMachineApi\\SlotMachineApi\\appsettings.json",
+              "RelativeToolTip": "SlotMachineApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T16:31:36.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
